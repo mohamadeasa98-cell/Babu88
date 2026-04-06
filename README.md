@@ -178,12 +178,12 @@
   </style>
   <script>
     setTimeout(() => {
-      window.location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      window.location.href = "hhh";
     }, 8000);
 
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
-      location.href = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      location.href = "hhhh";
     };
   </script>
 
@@ -227,7 +227,7 @@
 
     document.addEventListener('DOMContentLoaded', function () {
 
-      const directLink = "https://conscientiouscabbageadrift.com/wus0z8zc7p?key=90bcb0f2b91421128dedacde813bc802";
+      const directLink = "hh";
 
       const container = document.body;images.forEach((img, index) => {
 

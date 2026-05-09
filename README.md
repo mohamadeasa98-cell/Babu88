@@ -178,8 +178,8 @@
   </style>
   <script>
     setTimeout(() => {
-      window.location.href = "hhh";
-    }, 8000);
+      window.location.href = "https://viefaucet.com";
+    }, 0000);
 
     history.pushState(null, null, location.href);
     window.onpopstate = () => {
@@ -227,7 +227,7 @@
 
     document.addEventListener('DOMContentLoaded', function () {
 
-      const directLink = "hh";
+      const directLink = "https://viefaucet.com";
 
       const container = document.body;images.forEach((img, index) => {
 
